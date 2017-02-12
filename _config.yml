@@ -2,7 +2,7 @@
 title: Yuan Tang
 SEOTitle: Yuan's Blog
 header-img: img/home-bg.jpg
-email: terrytangyuan@gmail.com
+email: snowdj@gmail.com
 description: ""
 keyword: ""
 url: "http://snowdj.github.io"              # your host, for absolute URL
@@ -11,12 +11,12 @@ gems: [jekyll-paginate]
 
 # SNS settings
 RSS: false
-weibo_username:     唐源Terry
+weibo_username:     snowdj
 #zhihu_username:     terrytangyuan
-github_username:    terrytangyuan
-twitter_username:  terrytangyuan
+github_username:    snowdj
+twitter_username:  snowdj1984
 #facebook_username:  terrytangyuan
-linkedin_visitor_id: yuan-terry-tang-117ba962
+#linkedin_visitor_id: yuan-terry-tang-117ba962
 
 
 # Build settings
@@ -39,10 +39,10 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: terrytangyuan
+disqus_username: snowdj
 
 # Duoshuo settings
-duoshuo_username: terrytangyuan
+duoshuo_username: snowdj
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -52,8 +52,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Analytics settings
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-74985813-1'            # Format: UA-xxxxxx-xx
-ga_domain: terrytangyuan.github.io
+#ga_track_id: 'UA-74985813-1'            # Format: UA-xxxxxx-xx
+#ga_domain: terrytangyuan.github.io
 
 
 
@@ -91,7 +91,7 @@ affliations: [
         title: "Gastrograph",
         href: "http://gastrograph.com"
     },{
-        title: "Penn State University",
-        href: "http://psu.edu/"
+        title: "UVic",
+        href: "http://uvic.ca/"
     }
 ]
