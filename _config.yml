@@ -1,12 +1,12 @@
 # Site settings
-title: Yuan Tang
-SEOTitle: Yuan's Blog
+title: ECON爱好者
+SEOTitle: ECON爱好者's Blog
 header-img: img/home-bg.jpg
 email: snowdj@gmail.com
-description: ""
+description: "ECON练习本"
 keyword: ""
-url: "http://snowdj.github.io"              # your host, for absolute URL
-baseurl: "/terry"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://snowdj.github.io/econ"              # your host, for absolute URL
+baseurl: "/econ"                             # for example, '/blog' if your blog hosted on 'host/blog'
 gems: [jekyll-paginate]
 
 # SNS settings
