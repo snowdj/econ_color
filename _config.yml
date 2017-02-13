@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: snowdj@gmail.com
 description: "ECON练习本"
 keyword: ""
-url: "http://snowdj.github.io/econ"              # your host, for absolute URL
-baseurl: "/econ"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://snowdj.github.io/econ_color"              # your host, for absolute URL
+baseurl: "/econ_color"                             # for example, '/blog' if your blog hosted on 'host/blog'
 gems: [jekyll-paginate]
 
 # SNS settings
