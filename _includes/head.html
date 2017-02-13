@@ -24,6 +24,26 @@
     <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
     <!-- Hux change font-awesome CDN to qiniu -->
     <link href="http://cdn.staticfile.org/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    
+    
+<!-- mermaid support -->
+<script src="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.min.js"></script>
+<link rel="stylesheet" href="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.css">
+<script>mermaid.initialize({startOnLoad:true});</script>
+
+
+
+	
+{% if site.enable_mathjax %}
+<!-- Add mathjax support -->
+ <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+ </script>
+ <script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+     tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+   });
+ </script>
+{% endif %}	
 
 
     <!-- Hux Delete, sad but pending in China
