@@ -998,10 +998,14 @@ border-top: 1px solid #eee;
 }
 
 .codinfox-tag-mark{
-    font-size: 75%;
-    padding: 0 .5rem 0 .5rem;
-    border-radius: 5px;
-    background: #e7f2f7;
-    color: #6a9fb5;
+    font-size: 15px;
+    border-radius: 7px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    color: #c2c2c2;
+    background-color: #ffffff;
+    font-style: italic;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 800;
 }
-
