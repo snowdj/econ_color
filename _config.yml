@@ -75,23 +75,8 @@ enable_mathjax: true
 # Affliations
 affliations: [
     {
-        title: "Uptake",
-        href: "http://uptake.com" 
-    },{
         title: "RStudio",
         href: "http://rstudio.com/"
-    },{
-        title: "DMLC",
-        href: "http://dmlc.ml/"
-    },{
-        title: "TensorFlow",
-        href: "https://github.com/tensorflow"
-    },{
-        title: "DataNovo",
-        href: "http://datanovo.com"
-    },{
-        title: "Gastrograph",
-        href: "http://gastrograph.com"
     },{
         title: "UVic",
         href: "http://uvic.ca/"
