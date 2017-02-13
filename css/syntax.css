@@ -82,3 +82,18 @@
 .highlight .vi { color: teal; }
 .highlight .il { color: #009999; }
 .highlight .gc { color: #999; background-color: #EAF2F5; }
+
+
+
+.codinfox-tag-mark{
+    font-size: 15px;
+    border-radius: 7px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    color: #c2c2c2;
+    background-color: #ffffff;
+    font-style: italic;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+}
